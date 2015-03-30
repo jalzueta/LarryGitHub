@@ -1,3 +1,6 @@
 # Archivos generados por SSOO
 .DS_Store
 Thumbs.db
+
+# Ignoramos los HTML
+*.html
